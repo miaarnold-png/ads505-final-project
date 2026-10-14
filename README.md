@@ -11,7 +11,7 @@ The business aim is to reduce the loss of revenue occurred due to clients defaul
 - Katia Paredes
 
 ## Methods Used
-- Predictive Modeling ..
+- Predictive Modeling
 
 ## Technologies
 - Python
