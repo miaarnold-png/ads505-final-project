@@ -35,7 +35,7 @@ Yeh, I. (2016). *Default of Credit Card Clients* UCI Machine Learning Repository
 *The dataset used for modeling was cleaned and included engineered features. There were a total of 41 final attributes. The cleaned data used for modeling can be found in the `data` folder under the name `credit_default_engineered.csv`.
 
 ## Instructions
-Download the cleaned dataset with engineered features, `credit_default_engineered.csv`, then open the file titled `final_project.ipynb`. This file contains all EDA, Modeling, and Discussion.
+Download these three datasets: `default of credit card clients.xls`, `credit_default_clean.csv` and `credit_default_engineered.csv`, then open the file titled `final_project.ipynb`. This file contains all EDA, Modeling, and Discussion.
 
 # License 
 This dataset is licensed under a Creative Commons Attribution 4.0 International (CC BY 4.0) license.
