@@ -11,9 +11,9 @@ The business aim is to reduce the loss of revenue occurred due to clients defaul
 - Katia Paredes
 
 ## Contributions
-Mia Arnold: Problem Statement, Business Objective, Data Description, Linear Discriminant Analysis Model, and Adaboost Model
-Harshali Gaikwad: Data Preprocessing, Modeling Pipeline, Random Forest Model, Logistic Regression Model, Discussion and Conclusion
-Katia Paredes: Exploratory Data Analysis, Feature Engineering, Neural Network, Descison Tree, Lift Charts
+- Mia Arnold: Problem Statement, Business Objective, Data Description, Linear Discriminant Analysis Model, and Adaboost Model
+- Harshali Gaikwad: Data Preprocessing, Modeling Pipeline, Random Forest Model, Logistic Regression Model, Discussion and Conclusion
+- Katia Paredes: Exploratory Data Analysis, Feature Engineering, Neural Network, Descison Tree, Lift Charts
 
 ## Methods Used
 - Predictive Modeling
@@ -37,10 +37,10 @@ The dataset is a xls file that includes 23 attributes and 30,000 instances. It w
 
 Yeh, I. (2016). *Default of Credit Card Clients* UCI Machine Learning Repository. (https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients)
 
-The dataset used for modeling was cleaned and included engineered features. There were a total of 41 final attributes. The cleaned data used for modeling can be found in the data folder under the name `credit_default_engineered.csv`.
+*The dataset used for modeling was cleaned and included engineered features. There were a total of 41 final attributes. The cleaned data used for modeling can be found in the `data` folder under the name `credit_default_engineered.csv`.
 
 # Instructions
-Downloaded the cleaned dataset with engineered features then open the file titled `final_project.ipynb`. This file contains all EDA, Modeling, and Discussion.
+Download the cleaned dataset with engineered features, `credit_default_engineered.csv`, then open the file titled `final_project.ipynb`. This file contains all EDA, Modeling, and Discussion.
 
 # License 
 This dataset is licensed under a Creative Commons Attribution 4.0 International (CC BY 4.0) license.
