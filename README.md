@@ -6,9 +6,9 @@ This project is a part of the ADS-505 course in the Applied Data Science Program
 The business aim is to reduce the loss of revenue occurred due to clients defaulting on their monthly payments. Early outreach programs can be developed by the Credit Risk team and applied to customers most likely to default. In order to identify those customers, a classification model will be developed that also ranks them by their propensity to default on the next months payment. A successful model will predict defaulters better than the baseline model while a successful outreach campaign would reduce the percent of overall credit card default for the quarter by 1%
 
 ## Contributors & Contributions
-- Mia Arnold: Problem Statement, Business Objective, Data Description, Linear Discriminant Analysis Model, and Adaboost Model
-- Harshali Gaikwad: Data Preprocessing, Modeling Pipeline, Random Forest Model, Logistic Regression Model, Discussion and Conclusion
-- Katia Paredes: Exploratory Data Analysis, Feature Engineering, Neural Network, Descison Tree, Lift Charts
+- <ins>Mia Arnold</ins>: Problem Statement, Business Objective, Data Description, Linear Discriminant Analysis Model, and Adaboost Model
+- <ins>Harshali Gaikwad</ins>: Data Preprocessing, Modeling Pipeline, Random Forest Model, Logistic Regression Model, Discussion and Conclusion
+- <ins>Katia Paredes</ins>: Exploratory Data Analysis, Feature Engineering, Neural Network, Descison Tree, Lift Charts
 
 ## Methods Used
 - Predictive Modeling
