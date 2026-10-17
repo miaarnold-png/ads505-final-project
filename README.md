@@ -5,12 +5,7 @@ This project is a part of the ADS-505 course in the Applied Data Science Program
 ## Project Objective 
 The business aim is to reduce the loss of revenue occurred due to clients defaulting on their monthly payments. Early outreach programs can be developed by the Credit Risk team and applied to customers most likely to default. In order to identify those customers, a classification model will be developed that also ranks them by their propensity to default on the next months payment. A successful model will predict defaulters better than the baseline model while a successful outreach campaign would reduce the percent of overall credit card default for the quarter by 1%
 
-## Contributors
-- Mia Arnold
-- Harshali Gaikwad
-- Katia Paredes
-
-## Contributions
+## Contributors & Contributions
 - Mia Arnold: Problem Statement, Business Objective, Data Description, Linear Discriminant Analysis Model, and Adaboost Model
 - Harshali Gaikwad: Data Preprocessing, Modeling Pipeline, Random Forest Model, Logistic Regression Model, Discussion and Conclusion
 - Katia Paredes: Exploratory Data Analysis, Feature Engineering, Neural Network, Descison Tree, Lift Charts
@@ -39,7 +34,7 @@ Yeh, I. (2016). *Default of Credit Card Clients* UCI Machine Learning Repository
 
 *The dataset used for modeling was cleaned and included engineered features. There were a total of 41 final attributes. The cleaned data used for modeling can be found in the `data` folder under the name `credit_default_engineered.csv`.
 
-# Instructions
+## Instructions
 Download the cleaned dataset with engineered features, `credit_default_engineered.csv`, then open the file titled `final_project.ipynb`. This file contains all EDA, Modeling, and Discussion.
 
 # License 
