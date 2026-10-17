@@ -35,13 +35,16 @@ This project aims to develop a predictive model that accurately identifies highe
 ## Data & Data Description
 The dataset is a xls file that includes 23 attributes and 30,000 instances. It was found on the UCI Repository. There is a mix of binary, categorical and numerical variables. There are no missing values but the outcome variable is imbalanced.
 
-The dataset used for modeling was cleaned and included engineered features. There were a total of 41 final attributes. The cleaned data used for modeling can be found [here](data/credit_default_engineered.csv)
-
 Yeh, I. (2016). *Default of Credit Card Clients* UCI Machine Learning Repository. (https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients)
+
+The dataset used for modeling was cleaned and included engineered features. There were a total of 41 final attributes. The cleaned data used for modeling can be found in the data folder under the name `credit_default_engineered.csv`.
+
+# Instructions
+Downloaded the cleaned dataset with engineered features then open the file titled `final_project.ipynb`. This file contains all EDA, Modeling, and Discussion.
 
 # License 
 This dataset is licensed under a Creative Commons Attribution 4.0 International (CC BY 4.0) license.
 This allows for the sharing and adaptation of the datasets for any purpose, provided that the appropriate credit is given.
 
 # Acknowledgments
-
+To all our friends, family, pets and peers who helped us along the way.
