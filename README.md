@@ -8,7 +8,7 @@ The business aim is to reduce the loss of revenue occurred due to clients defaul
 ## Contributors & Contributions
 - <ins>Mia Arnold</ins>: Problem Statement, Business Objective, Data Description, Linear Discriminant Analysis Model, and Adaboost Model
 - <ins>Harshali Gaikwad</ins>: Data Preprocessing, Modeling Pipeline, Random Forest Model, Logistic Regression Model, Discussion and Conclusion
-- <ins>Katia Paredes</ins>: Exploratory Data Analysis, Feature Engineering, Neural Network, Descison Tree, Lift Charts
+- <ins>Katia Paredes</ins>: Exploratory Data Analysis, Visualizations, Feature Engineering, Descison Tree, Model Evaluation Charts
 
 ## Methods Used
 - Predictive Modeling
